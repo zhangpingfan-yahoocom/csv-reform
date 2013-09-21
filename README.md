@@ -18,3 +18,6 @@ But, if PERSONAL.XLSB exists already, the installation will be aborted.
 
 Supported versions：
 Excle　2003/2007/2010
+
+Download URL:
+https://skydrive.live.com/?cid=906664A6A59FC0DD&id=906664A6A59FC0DD%211023
